@@ -1,0 +1,15 @@
+build/
+CMakeUserPresets.json
+.vscode/
+.clangd/
+.settings/
+.project
+.cproject
+.mxproject
+*.log
+*.map
+*.elf
+*.hex
+*.bin
+Thumbs.db
+Desktop.ini
